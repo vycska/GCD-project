@@ -1,4 +1,4 @@
-# Description of the Getting and Cleaning data course project
+# Description of the Getting and Cleaning Data course project
 
 * the purpose of the project was to prepare tidy data set
 * original data came from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
